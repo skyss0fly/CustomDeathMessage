@@ -5,4 +5,8 @@ branches:
 projects:
   CustomDeathMessage:
     path: ""
+    libs:
+      - src: Terpz710/CustomDeathMessages
+        version: ^1.7
+        branch: "main"
 ...

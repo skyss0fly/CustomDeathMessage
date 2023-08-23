@@ -1,0 +1,5 @@
+# Custom death messages for player deaths
+player_killed_by_player_message: "{victim} was slain by {killer}"
+player_shot_by_projectile_message: "{victim} was shot by {shooter}"
+player_killed_by_mob_message: "{victim} was killed by a {mob}"
+player_died_message: "{victim} died"

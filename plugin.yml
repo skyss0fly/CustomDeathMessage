@@ -1,0 +1,6 @@
+name: CustomDeathMessages
+version: 1.0.0
+api: [5.0.0]
+author: Terpz710
+description: A plugin that displays custom death messages for players and mobs.
+main: Terpz710\CustomDeathMessages

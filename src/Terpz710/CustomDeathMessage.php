@@ -1,6 +1,6 @@
 <?php
 
-namespace Terpz710;
+namespace Terpz710\CustomDeathMessage;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
@@ -10,7 +10,7 @@ use pocketmine\entity\Monster;
 use pocketmine\Player;
 use pocketmine\entity\Projectile;
 
-class CustomDeathMessages extends PluginBase implements Listener {
+class CustomDeathMessage extends PluginBase implements Listener {
 
     public function onEnable(): void {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
